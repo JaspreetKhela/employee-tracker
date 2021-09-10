@@ -27,9 +27,9 @@ CREATE TABLE employees (
     id INTEGER AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(30) NOT NULL,
     last_name VARCHAR(30) NOT NULL,
-    role_id INT NOT NULL,
+    role_id INT,
     manager_id INT,
-    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     -- Add a constraint to the role_id to reference the corresponding id in the roles table
     CONSTRAINT fk_role
         FOREIGN KEY (role_id)

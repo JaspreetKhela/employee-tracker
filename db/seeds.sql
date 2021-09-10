@@ -4,7 +4,7 @@ INSERT INTO departments
 VALUES
     ("Production"),
     ("Research and Development"),
-    ("Purchasing")
+    ("Purchasing"),
     ("Marketing"),
     ("Human Resource Management"),
     ("Accounting and Finance");
