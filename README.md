@@ -20,7 +20,7 @@
 
 ### Installation
 1. Download [git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download/), [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm), and [MySQL](https://www.mysql.com/downloads/).
-2. Clone this repository by typing `git clone https://github.com/JaspreetKhela/professional-README-generator.git` in your desired directory using the Command Line Interface.
+2. Clone this repository by typing `git clone https://github.com/JaspreetKhela/employee-tracker.git` in your desired directory using the Command Line Interface.
 3. Download npm dependencies by typing `npm install` in your Command Line Interface. This application using the inquirer and jest npm packages.
 4. Type `mysql -u root -p` in the application's root directory and enter your MySQL credentials.
 5. Create the personnel database and populate it with data by typing `source ./db/db.sql;`, `source ./db/schema.sql;`, and `source ./db/seeds.sql;` into the MySQL shell. Once completed, type `quit;` to exit the MySQL shell.
