@@ -29,8 +29,6 @@
 To use this application, navigate to the root folder in the cloned repository's directory and simply type `node index.js` into the Command Line Interface.
 
 **Screenshots**:
-<img width="1440" alt="Screen Shot 2021-09-10 at 8 20 26 PM" src="https://user-images.githubusercontent.com/80941606/132933986-5f695a28-e616-4ce2-a35d-eea894f869e6.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 8 20 50 PM" src="https://user-images.githubusercontent.com/80941606/132933988-db594f4b-24bb-470b-a994-966f0cd65bf1.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 46 17 PM" src="https://user-images.githubusercontent.com/80941606/132933991-d8c93840-764c-4d39-ab8c-97a4e6b48f59.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 46 32 PM" src="https://user-images.githubusercontent.com/80941606/132933995-d9893b2a-46e7-4cfa-a410-0a23ab223d7f.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 46 50 PM" src="https://user-images.githubusercontent.com/80941606/132933997-39393cc3-dd76-4f13-9bc1-a1b81cdb5817.png">
