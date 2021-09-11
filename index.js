@@ -145,7 +145,7 @@ Add a Department
         {
             type: "input",
             name: "addDepartment",
-            message: "Please enter the name of the department that you would like to add or press the return key to return to the main menu:",
+            message: "Please enter the name of the department that you would like to add:",
             validate: input => {
                 if (input) {
                     if (typeof input === "string") {
@@ -154,8 +154,9 @@ Add a Department
                     return false;
                 }
                 else {
-                    // If the user returns an empty string, return to the main menu prompts
-                    mainMenuPrompts();
+                    // If the user's input is empty, prompt the user to submit a non-empty input
+                    console.log("This is a required field. Please enter a valid name.");
+                    return false;
                 }
             }
         }
@@ -191,7 +192,7 @@ Add a Role
         {
             type: "input",
             name: "addRoleTitle",
-            message: "Please enter the title of the role that you would like to add or press the return key to return to the main menu:",
+            message: "Please enter the title of the role that you would like to add:",
             validate: input => {
                 if (input) {
                     if (typeof input === "string") {
@@ -200,8 +201,9 @@ Add a Role
                     return false;
                 }
                 else {
-                    // If the user returns an empty string, return to the main menu prompts
-                    mainMenuPrompts();
+                    // If the user's input is empty, prompt the user to submit a non-empty input
+                    console.log("This is a required field. Please enter a valid title.");
+                    return false;
                 }
             }
         },
@@ -210,7 +212,7 @@ Add a Role
         {
             type: "input",
             name: "addRoleSalary",
-            message: "Please enter the salary of the role:",
+            message: "Please enter the salary for the role:",
             validate: input => {
                 if (input) {
                     if (typeof input === "string") {
@@ -268,7 +270,7 @@ Add an Employee
         {
             type: "input",
             name: "addEmployeeFirstName",
-            message: "Please enter the first name of the employee that you would like to add or press the return key to return to the main menu:",
+            message: "Please enter the first name of the employee that you would like to add:",
             validate: input => {
                 if (input) {
                     if (typeof input === "string") {
@@ -277,8 +279,9 @@ Add an Employee
                     return false;
                 }
                 else {
-                    // If the user returns an empty string, return to the main menu prompts
-                    mainMenuPrompts();
+                    // If the user's input is empty, prompt the user to submit a non-empty input
+                    console.log("This is a required field. Please enter a valid name.");
+                    return false;
                 }
             }
         },
@@ -297,7 +300,7 @@ Add an Employee
                 }
                 else {
                     // If the user's input is empty, prompt the user to submit a non-empty input
-                    console.log("This is a required field. Please enter a valid salary.");
+                    console.log("This is a required field. Please enter a valid name.");
                     return false;
                 }
             }
@@ -315,7 +318,7 @@ Add an Employee
         {
             type: "list",
             name: "addEmployeeManager",
-            message: "Please choose this employee's manager or press the return key for no manager:",
+            message: "Please choose this employee's manager:",
             choices: employeesArray
         }
     ])
@@ -457,11 +460,9 @@ View a Manager's Employees
         // Find the managerID
         const managerID = Object.keys(JSON.parse(answers.viewManager))[0];
 
-        console.log("managerid", managerID);
         // Execute the viewEmployeesOfManager handler function
         handlerFunctions.viewEmployeesOfManager(managerID);
 
-        console.log("after");
         // Return back to the main menu prompts
         mainMenuPrompts();
     })
@@ -489,7 +490,7 @@ View a Department's Employees
         {
             type: "list",
             name: "viewDepartment",
-            message: "Please choose an department:",
+            message: "Please choose a department:",
             choices: departmentsArray
         }
     ])
@@ -641,7 +642,7 @@ View Department Budget
         {
             type: "list",
             name: "viewDepartmentBudget",
-            message: "Please choose an department:",
+            message: "Please choose a department:",
             choices: departmentsArray
         }
     ])
