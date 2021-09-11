@@ -5,8 +5,7 @@
 
 **Deployment Link**: Please see [installation](#installation) instructions below.
 
-**Video Tutorial Links**: 
-- 
+**Video Tutorial Links**:  
 
 ## Table of Contents
 * [Installation](#installation)
