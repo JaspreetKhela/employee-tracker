@@ -29,23 +29,47 @@
 To use this application, navigate to the root folder in the cloned repository's directory and simply type `node index.js` into the Command Line Interface.
 
 **Screenshots**:
-<img width="1440" alt="Screen Shot 2021-09-10 at 8 20 26 PM" src="https://user-images.githubusercontent.com/80941606/132931662-93799b44-01a7-48ea-afcc-72294b1d8224.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 8 20 50 PM" src="https://user-images.githubusercontent.com/80941606/132931669-8bd79add-4ddf-4f7c-b38e-388bf1cc0baa.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 08 14 PM" src="https://user-images.githubusercontent.com/80941606/132931672-2b64869d-62b7-4508-ab2a-33e3fde98d87.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 08 33 PM" src="https://user-images.githubusercontent.com/80941606/132931678-e50eb874-4092-42d3-9729-6ba2b792c9e3.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 08 52 PM" src="https://user-images.githubusercontent.com/80941606/132931680-9fef7fa7-b338-4c4e-9ee1-8c7ceeefa3e9.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 09 43 PM" src="https://user-images.githubusercontent.com/80941606/132931683-4cb0481b-6920-4255-86a0-a14d23ede60c.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 11 53 PM" src="https://user-images.githubusercontent.com/80941606/132931684-79b4f203-9510-49f3-9ddb-d4fbefe0e5ee.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 12 35 PM" src="https://user-images.githubusercontent.com/80941606/132931686-37317931-4b76-4137-9525-f07b07001ca1.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 13 44 PM" src="https://user-images.githubusercontent.com/80941606/132931689-2a9657ab-7498-445d-9d6a-803992f8c283.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 14 08 PM" src="https://user-images.githubusercontent.com/80941606/132931705-583a65a2-02bc-492e-a622-20829d139d8c.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 14 33 PM" src="https://user-images.githubusercontent.com/80941606/132931707-0f2d4df9-d0a9-4c58-85e7-b8b0bd8c7177.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 14 52 PM" src="https://user-images.githubusercontent.com/80941606/132931709-d3484b82-0905-477c-be86-b2f7128e0cc9.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 15 18 PM" src="https://user-images.githubusercontent.com/80941606/132931713-876568ba-5905-4a2b-aeb1-ad115135f786.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 15 31 PM" src="https://user-images.githubusercontent.com/80941606/132931717-48839633-5931-4d69-a864-3e5447ab34ad.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 15 58 PM" src="https://user-images.githubusercontent.com/80941606/132931723-4741b0ce-c643-470b-85c8-9451b8f25610.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 19 50 PM" src="https://user-images.githubusercontent.com/80941606/132931726-8e316973-874e-4d4b-aa2e-0813e11b7371.png">
-<img width="1440" alt="Screen Shot 2021-09-10 at 9 20 02 PM" src="https://user-images.githubusercontent.com/80941606/132931731-00598257-1081-4970-bc61-2881f97e634e.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 8 20 26 PM" src="https://user-images.githubusercontent.com/80941606/132933986-5f695a28-e616-4ce2-a35d-eea894f869e6.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 8 20 50 PM" src="https://user-images.githubusercontent.com/80941606/132933988-db594f4b-24bb-470b-a994-966f0cd65bf1.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 46 17 PM" src="https://user-images.githubusercontent.com/80941606/132933991-d8c93840-764c-4d39-ab8c-97a4e6b48f59.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 46 32 PM" src="https://user-images.githubusercontent.com/80941606/132933995-d9893b2a-46e7-4cfa-a410-0a23ab223d7f.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 46 50 PM" src="https://user-images.githubusercontent.com/80941606/132933997-39393cc3-dd76-4f13-9bc1-a1b81cdb5817.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 46 58 PM" src="https://user-images.githubusercontent.com/80941606/132934001-f3f29c00-1d94-495a-a322-9272afbc9e8f.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 47 31 PM" src="https://user-images.githubusercontent.com/80941606/132934003-1c572b86-05bf-4201-b80d-b0a243caae15.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 47 51 PM" src="https://user-images.githubusercontent.com/80941606/132934008-92bc3afd-1670-466f-a10a-3c53397a00e5.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 48 12 PM" src="https://user-images.githubusercontent.com/80941606/132934012-585d1e86-4cc4-4ff7-a9f7-85d9ed503071.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 48 51 PM" src="https://user-images.githubusercontent.com/80941606/132934018-658ebbd0-3fb1-4cd1-8d80-bdcba0f92744.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 48 58 PM" src="https://user-images.githubusercontent.com/80941606/132934021-a06f9c9b-310f-499c-b5df-94eb930e538a.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 49 10 PM" src="https://user-images.githubusercontent.com/80941606/132934023-c7e34bbf-176b-45a2-91f1-cf26f93457b8.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 49 58 PM" src="https://user-images.githubusercontent.com/80941606/132934025-085e7d89-10b9-4067-8c69-c56471697809.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 50 05 PM" src="https://user-images.githubusercontent.com/80941606/132934028-486a2838-d7bf-4a53-ae8e-5bc2807e7743.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 50 17 PM" src="https://user-images.githubusercontent.com/80941606/132934030-ce35dee3-002c-4fa8-873c-25737c3f883a.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 50 50 PM" src="https://user-images.githubusercontent.com/80941606/132934033-c26ab2e8-a1b6-4c9f-b0d8-ce74bb21465b.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 50 57 PM" src="https://user-images.githubusercontent.com/80941606/132934037-cfba4007-0134-4fd7-9c31-30181fdbb633.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 51 23 PM" src="https://user-images.githubusercontent.com/80941606/132934041-2be6fcf9-3e4d-409a-a598-b5af115f1efb.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 51 44 PM" src="https://user-images.githubusercontent.com/80941606/132934042-542a5a48-b98a-4334-b893-b8b1cbb9d389.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 52 05 PM" src="https://user-images.githubusercontent.com/80941606/132934045-c1960038-88b6-47c6-8a26-e385ce2845a2.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 52 24 PM" src="https://user-images.githubusercontent.com/80941606/132934047-4420e909-3955-4516-bf33-39c8e4c1c003.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 52 58 PM" src="https://user-images.githubusercontent.com/80941606/132934049-9e69a9e0-2ba1-4816-b182-c9607658d502.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 53 05 PM" src="https://user-images.githubusercontent.com/80941606/132934050-5a21082f-d9cc-4db3-a110-5a8e9921eddc.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 54 00 PM" src="https://user-images.githubusercontent.com/80941606/132934051-3f09c528-5847-4e66-a255-1cf14dc15fa9.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 54 16 PM" src="https://user-images.githubusercontent.com/80941606/132934052-8ea91a8d-f4c7-443a-a684-5229eca3c003.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 54 22 PM" src="https://user-images.githubusercontent.com/80941606/132934053-65b3bf6a-70c9-4d39-8779-63956d2a60e3.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 54 35 PM" src="https://user-images.githubusercontent.com/80941606/132934057-0c6037e3-0549-499e-b6c2-8989c170fdcd.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 54 42 PM" src="https://user-images.githubusercontent.com/80941606/132934058-cc317960-b45d-4a1e-b5c8-c9bc9f60806e.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 54 48 PM" src="https://user-images.githubusercontent.com/80941606/132934060-57b03c43-56c0-440b-8bbb-725b8c66fbc0.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 55 29 PM" src="https://user-images.githubusercontent.com/80941606/132934063-539b358e-fdb1-4713-8576-9608725035b5.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 55 43 PM" src="https://user-images.githubusercontent.com/80941606/132934064-fe428c02-4e2b-4cae-ab29-565b8d44787f.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 55 49 PM" src="https://user-images.githubusercontent.com/80941606/132934067-1cb4b80b-1413-46ce-a063-a8fa7bf99bdc.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 01 PM" src="https://user-images.githubusercontent.com/80941606/132934069-7bbbfe89-e42d-443c-bb0b-6f8ae54a355d.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 09 PM" src="https://user-images.githubusercontent.com/80941606/132934073-463919e8-5126-476d-b723-dc3a5a7e32d3.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 20 PM" src="https://user-images.githubusercontent.com/80941606/132934074-e8f28d8a-0399-4aad-b92d-3fdd547c32da.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 36 PM" src="https://user-images.githubusercontent.com/80941606/132934079-196e807b-0079-4c6a-8846-2d361fde743a.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 43 PM" src="https://user-images.githubusercontent.com/80941606/132934083-c27b88bf-4928-4732-a4b7-85fd7876cad1.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 49 PM" src="https://user-images.githubusercontent.com/80941606/132934084-83b8b2cb-1ea1-457d-a566-2b4e337dbaa0.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 56 56 PM" src="https://user-images.githubusercontent.com/80941606/132934085-670d559e-1f7b-413c-9d8b-284c993cc86a.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 57 14 PM" src="https://user-images.githubusercontent.com/80941606/132934086-af1a6c60-fa3a-4678-81b8-9520e4cec02a.png">
+<img width="1440" alt="Screen Shot 2021-09-10 at 10 57 21 PM" src="https://user-images.githubusercontent.com/80941606/132934088-c6f92832-244f-4793-9cd7-99138d4a8e9c.png">
 
 ### Features
 This application allows the following operations on the personnel database:
