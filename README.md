@@ -33,8 +33,8 @@ To use this application, navigate to the root folder in the cloned repository's 
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 46 32 PM" src="https://user-images.githubusercontent.com/80941606/132933995-d9893b2a-46e7-4cfa-a410-0a23ab223d7f.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 46 50 PM" src="https://user-images.githubusercontent.com/80941606/132933997-39393cc3-dd76-4f13-9bc1-a1b81cdb5817.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 46 58 PM" src="https://user-images.githubusercontent.com/80941606/132934001-f3f29c00-1d94-495a-a322-9272afbc9e8f.png">
+<img width="1440" alt="Screen Shot 2021-09-16 at 4 43 13 PM" src="https://user-images.githubusercontent.com/80941606/133683124-7b134af5-cd84-404c-9e4f-75d411a09759.png">
 <img width="1440" alt="Screen Shot 2021-09-16 at 4 40 48 PM" src="https://user-images.githubusercontent.com/80941606/133682848-ec04d3e3-ac9e-4354-b1df-ca3f8b04f3d5.png">
-<img width="1440" alt="Screen Shot 2021-09-16 at 4 40 58 PM" src="https://user-images.githubusercontent.com/80941606/133682873-82af4845-94cd-4c9c-8fc8-8d5b78fb5179.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 48 12 PM" src="https://user-images.githubusercontent.com/80941606/132934012-585d1e86-4cc4-4ff7-a9f7-85d9ed503071.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 48 51 PM" src="https://user-images.githubusercontent.com/80941606/132934018-658ebbd0-3fb1-4cd1-8d80-bdcba0f92744.png">
 <img width="1440" alt="Screen Shot 2021-09-10 at 10 48 58 PM" src="https://user-images.githubusercontent.com/80941606/132934021-a06f9c9b-310f-499c-b5df-94eb930e538a.png">
